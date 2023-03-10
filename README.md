@@ -1,5 +1,4 @@
-# CS 7641 Machine Learning 
-## Course project
+# Auditing ML Techniques to Study Twitter Racism/Hate during CoVID-19 Pandemic
 
 ### Motivation 
 With the rising numbers of COVID-19 cases in the United States since early this year, social conflicts have increased significantly. These conflicts have led to mounting fear, economic downturn, and racism. During this pandemic, there are lots of discussions of COVID-19 on Twitter, including President Trump's "Chinese Virus" tweet. 
