@@ -17,5 +17,3 @@ We would compare the performance of these techniques using the performance metri
 [2] Lundberg S M, Lee S I. A unified approach to interpreting model predictions[C]//Advances in neural information processing systems. 2017: 4765-4774.
 [3] Ribeiro M T, Singh S, Guestrin C. " Why should I trust you?" Explaining the predictions of any classifier[C]//Proceedings of the 22nd ACM SIGKDD international conference on knowledge discovery and data mining. 2016: 1135-1144.
 
-Please find the video at:
-https://gtvault-my.sharepoint.com/:f:/g/personal/dkuchhal3_gatech_edu/EjtnYJmF4GFKguCWlUrbSBQBTie6aeFrhpwyn0rPWp5uZA?e=HQL8Mz}{https://b.gatech.edu/37vXWIk
